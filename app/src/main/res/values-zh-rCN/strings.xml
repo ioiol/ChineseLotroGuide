@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Lotro中文攻略</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="communicate">共享</string>
+
+    <string name="action_settings">设置</string>
+
+    <string name="guides">攻略</string>
+    <string name="classes">职业</string>
+    <string name="others">其他</string>
+    <string name="about">关于</string>
+    <string name="share">分享</string>
+    <string name="send">发送</string>
+    <string name="author">水瓶右舷</string>
+
+    <string name="beorning">比翁</string>
+    <string name="burglar">刺客</string>
+    <string name="captain">旗手</string>
+    <string name="champion">斗士</string>
+    <string name="guardian">盾卫</string>
+    <string name="hunter">猎人</string>
+    <string name="lore_master">贤者</string>
+    <string name="minstrel">诗人</string>
+    <string name="runekeeper">符文</string>
+    <string name="warden">守望</string>
+</resources>

@@ -1,0 +1,65 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/intro"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:padding="5dp"
+        android:text="职业攻略"
+        android:textSize="@dimen/class_text_size" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.1dp"
+        android:background="@android:color/background_dark" />
+
+    <TextView
+        android:id="@+id/traits"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:padding="5dp"
+        android:text="天赋"
+        android:textSize="@dimen/class_text_size" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.1dp"
+        android:background="@android:color/background_dark" />
+
+    <TextView
+        android:id="@+id/skill"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:padding="5dp"
+        android:text="技能"
+        android:textSize="@dimen/class_text_size" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.1dp"
+        android:background="@android:color/background_dark" />
+
+    <TextView
+        android:id="@+id/weapon"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:padding="5dp"
+        android:text="传奇武器"
+        android:textSize="@dimen/class_text_size" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.1dp"
+        android:background="@android:color/background_dark" />
+</LinearLayout>
