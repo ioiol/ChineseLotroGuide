@@ -8,6 +8,6 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="third fragment" />
+        android:text="功能待开发，请等待更新..." />
 
 </FrameLayout>
